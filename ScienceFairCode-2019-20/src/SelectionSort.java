@@ -12,7 +12,7 @@ public class SelectionSort {
         double end = System.nanoTime();
         double total = end - start;
         System.out.println();
-        System.out.println("Time Taken to Sort: " + total / 1000000);
+        System.out.println("Time Taken to Sort: " + total / 1000000 + " milliseconds");
     }
     public static void SwapHelper(int[] array, int a, int b){
         int temp = array[a];

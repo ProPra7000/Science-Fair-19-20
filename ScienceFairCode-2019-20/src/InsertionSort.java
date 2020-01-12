@@ -12,7 +12,7 @@ public class InsertionSort {
         double end = System.nanoTime();
         double total = end - start;
         System.out.println();
-        System.out.println("Time Taken to Sort and Output: " + total / 1000000);
+        System.out.println("Time Taken to Sort and Output: " + total / 1000000 + " milliseconds");
     }
     public static void InsSort(int[] nums){
         for(int i = 1; i < nums.length; i++){

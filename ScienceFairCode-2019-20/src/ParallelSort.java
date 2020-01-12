@@ -16,7 +16,7 @@ public class ParallelSort{
         double total = end - start;
         System.out.println();
         System.out.println();
-        System.out.println("Time Taken to Sort and Output: " + total / 1000000);
+        System.out.println("Time Taken to Sort and Output: " + total / 1000000 + " milliseconds");
     }
     public static void parSort(int[] nums){
         Arrays.stream(nums);

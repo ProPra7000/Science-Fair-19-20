@@ -16,7 +16,7 @@ public class LinearSort {
         double total = end - start;
         System.out.println();
         System.out.println();
-        System.out.println("Time Taken to Sort and Output: " + total / 1000000);
+        System.out.println("Time Taken to Sort and Output: " + total / 1000000 + " milliseconds");
     }
     public static void linSort(int[] nums){
         Arrays.sort(nums);
