@@ -1,8 +1,8 @@
 # Science-Fair-19-20
-Our code for the 2019-2020 science fair - Prahalad Ramakrishnan and Shreyes Kumar
+Code for the 2019-2020 Science Fair
 
 
-Mrs. Riggleman - 2nd Period
+The effect of the type of sorting algorithm on the speed at which it sorts
 
 
-Note - Please refer to the master branch
+Highest placing in the Systems Software Category
